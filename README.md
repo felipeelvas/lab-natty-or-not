@@ -39,7 +39,7 @@ Criei um vídeo curto apresentando meu avatar gerado por **IA**, inspirado na es
 - Pipeline simples demonstrado: **roteiro → avatar → voz → publicação**  
 - Entrega rápida e **replicável** para novos roteiros/formatos
 
-**Assista agora:** [▶️ Link público do vídeo]([https://SEU_LINK_PUBLICO_DO_VIDEO](https://studio.d-id.com/share?id=4ac2131dc1acf59f812c8495c7b71e2a&utm_source=copy))
+**Assista agora:** [▶️ Link público do vídeo](https://studio.d-id.com/share?id=4ac2131dc1acf59f812c8495c7b71e2a&utm_source=copy)
 
 ## 💭 Reflexão
 Criar algo “**natty**” com IA é sobre **processo**, não “milagre”: um bom **roteiro**, tom de voz coerente e ajustes de **prosódia** fazem mais diferença do que qualquer efeito. O maior aprendizado foi manter **frases curtas**, priorizar entendimento e revisar **lip‑sync** com foco em plosivas e sibilância. Hype passa; **skill** fica. Próximo passo: **testes A/B** de roteiro e CTA.
