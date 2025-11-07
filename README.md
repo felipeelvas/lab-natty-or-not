@@ -1,5 +1,11 @@
 # Avatar “Natty or Not” com IAs Generativas – DIO Lab
 
+<p><strong>Assista agora:</strong>
+  <a href="https://studio.d-id.com/share?id=4ac2131dc1acf59f812c8495c7b71e2a&utm_source=copy" target="_blank" rel="noopener noreferrer">
+    ▶️ Link público do vídeo (abre em nova aba)
+  </a>
+</p>
+
 ## 📒 Descrição
 Criei um vídeo curto apresentando meu avatar gerado por **IA**, inspirado na estética “**Natty or Not**” do fisiculturismo, para introduzir o mundo das **IAs Generativas** de forma prática e cotidiana. O foco foi demonstrar o que dá para fazer no dia a dia: **roteiro**, **voz**, **sincronização labial** e **publicação rápida**.
 
@@ -45,10 +51,6 @@ Criei um vídeo curto apresentando meu avatar gerado por **IA**, inspirado na es
   </a>
 </p>
 
-<p><strong>Prévia (clique na imagem para assistir):</strong></p>
-<a href="https://studio.d-id.com/share?id=4ac2131dc1acf59f812c8495c7b71e2a&utm_source=copy" target="_blank" rel="noopener noreferrer">
-  <img src="assets/capas/preview.png" alt="Clique para assistir ao vídeo" width="720">
-</a>
 ## 💭 Reflexão
 Criar algo “**natty**” com IA é sobre **processo**, não “milagre”: um bom **roteiro**, tom de voz coerente e ajustes de **prosódia** fazem mais diferença do que qualquer efeito. O maior aprendizado foi manter **frases curtas**, priorizar entendimento e revisar **lip‑sync** com foco em plosivas e sibilância. Hype passa; **skill** fica. Próximo passo: **testes A/B** de roteiro e CTA.
 
